@@ -1,0 +1,6 @@
+bin/*
+obj/*
+Android/bin/*
+Android/obj/*
+iOS/bin/*
+iOS/obj/*
