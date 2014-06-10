@@ -1,5 +1,5 @@
-bin/*
-obj/*
+AdaptiveContentSample/bin/*
+AdaptiveContentSample/obj/*
 Android/bin/*
 Android/obj/*
 iOS/bin/*
