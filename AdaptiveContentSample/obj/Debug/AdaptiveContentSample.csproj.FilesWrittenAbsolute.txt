@@ -1,0 +1,7 @@
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/bin/Debug/AdaptiveContentSample.dll.mdb
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/bin/Debug/AdaptiveContentSample.dll
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/obj/Debug/AdaptiveContentSample.dll
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/obj/Debug/AdaptiveContentSample.dll.mdb
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Dan/Projects/AdaptiveContentSample/AdaptiveContentSample/bin/Debug/Xamarin.Forms.Xaml.dll
